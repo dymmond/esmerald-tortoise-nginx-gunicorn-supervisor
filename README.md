@@ -1,6 +1,6 @@
 # Cookiecutter NGINX, Supervisor, Docker, Gunicorn and Tortoise ORM
 
-![CI](https://github.com/tarsil/esmerald-tortoise-nginx-gunicorn-supervisor/actions/workflows/main.yml/badge.svg)
+![CI](https://github.com/dymmond/esmerald-tortoise-nginx-gunicorn-supervisor/actions/workflows/main.yml/badge.svg)
 
 Cookiecutter serving as base for projects using tortoise (or any other ORM, really) with deployment
 configurations
