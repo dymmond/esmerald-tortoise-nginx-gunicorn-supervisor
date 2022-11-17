@@ -1,0 +1,6 @@
+-r test.txt
+autopep8==1.5.4
+ipdb>=0.13.2
+mypy>=0.800
+pep8
+pylint
