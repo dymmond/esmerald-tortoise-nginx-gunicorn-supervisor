@@ -1,4 +1,14 @@
-# Cookiecutter NGINX, Supervisor, Docker, Gunicorn and Tortoise ORM
+# Cookiecutter NGINX, Supervisor, Docker, Gunicorn and Tortoise OR
+
+## Note
+
+This repository was created before the [Esmerald directives](https://www.esmerald.dev/directives/) were created and added
+to its core. 
+
+Now that is in place for also quite some time, this repository no longer needs updating and you can also check an [example](https://www.esmerald.dev/examples/)
+using the directives about how to generate a similar project to this one.
+
+Esmerald also became something bigger, better and with greater support so this repository no longer makes sense in bigger picture.
 
 ![CI](https://github.com/dymmond/esmerald-tortoise-nginx-gunicorn-supervisor/actions/workflows/main.yml/badge.svg)
 
